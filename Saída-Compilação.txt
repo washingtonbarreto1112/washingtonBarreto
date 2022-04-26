@@ -1,0 +1,6 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: washingtonBarreto, Configuração: Debug Any CPU ------
+1>C:\Users\washington.bpjunior\source\repos\washingtonBarreto\washingtonBarreto\view\Tela.cs(69,57,69,58): error CS1002: ; esperado
+1>C:\Users\washington.bpjunior\source\repos\washingtonBarreto\washingtonBarreto\view\Tela.cs(69,57,69,58): error CS1513: } esperada
+1>Projeto de compilação pronto "washingtonBarreto.csproj" -- FALHA.
+========== Compilar: 0 com êxito, 1 com falha, 0 atualizados, 0 ignorados ==========
